@@ -66,14 +66,5 @@
   "main": ".eslintrc.js",
   "directories": {
     "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lightsound/nexst-tailwind.git"
-  },
-  "author": "",
-  "bugs": {
-    "url": "https://github.com/lightsound/nexst-tailwind/issues"
-  },
-  "homepage": "https://github.com/lightsound/nexst-tailwind#readme"
+  }
 }
